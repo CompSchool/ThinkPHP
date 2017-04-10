@@ -31,6 +31,7 @@
 [简书->](http://www.jianshu.com/p/0bec3945da89)
 
 6. 微信实验六、微信PHP后台验证、接收和发送消息代码解析及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/69910026)
 [简书->](http://www.jianshu.com/p/fd5c694413f5)
 
 持续更新中...
