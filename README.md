@@ -34,6 +34,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/69910026)
 [简书->](http://www.jianshu.com/p/fd5c694413f5)
 
+7. 微信实验七、微信PHP开发调试技巧及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70049780)
+[简书->](http://www.jianshu.com/p/36313fe1fbfe)
+
 持续更新中...
 
 ## 二、ThinkPHP学习系列文章
