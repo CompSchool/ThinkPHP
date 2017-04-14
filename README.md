@@ -38,6 +38,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70049780)
 [简书->](http://www.jianshu.com/p/36313fe1fbfe)
 
+8. 微信实验八、微信PHP机器人自动回复及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70170458)
+[简书->](http://www.jianshu.com/p/dd64b198d7fd)
+
 持续更新中...
 
 ## 二、ThinkPHP学习系列文章
