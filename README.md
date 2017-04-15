@@ -42,6 +42,11 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70170458)
 [简书->](http://www.jianshu.com/p/dd64b198d7fd)
 
+疑难杂症解决方法
+1. 公众号用户发送消息后台PHP回复没有反应的解决办法
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70038219)
+[简书->](http://www.jianshu.com/p/8b3c3c450d3a)
+
 持续更新中...
 
 ## 二、ThinkPHP学习系列文章
