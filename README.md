@@ -42,6 +42,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70170458)
 [简书->](http://www.jianshu.com/p/dd64b198d7fd)
 
+9. 微信实验九、微信ThinkPHP5.0机器人自动回复及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70196066)
+[简书->](http://www.jianshu.com/p/d4cb83499bd0)
+
 疑难杂症解决方法
 1. 公众号用户发送消息后台PHP回复没有反应的解决办法
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70038219)
