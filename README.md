@@ -46,6 +46,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70196066)
 [简书->](http://www.jianshu.com/p/d4cb83499bd0)
 
+10. 微信实验十、ThinkPHP5.0引导自动创建MYSQL数据库及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70245409)
+[简书->](http://www.jianshu.com/p/be9d52a1cac9)
+
 疑难杂症解决方法
 1. 公众号用户发送消息后台PHP回复没有反应的解决办法
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70038219)
