@@ -51,7 +51,7 @@
 [简书->](http://www.jianshu.com/p/be9d52a1cac9)
 
 11. 微信实验十一、ThinkPHP5.0登录、验证及源码下载
-[CSDN->]()
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70547388)
 [简书->](http://www.jianshu.com/p/ddb6f15ff2d2)
 
 疑难杂症解决方法
