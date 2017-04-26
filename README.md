@@ -54,6 +54,10 @@
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70547388)
 [简书->](http://www.jianshu.com/p/ddb6f15ff2d2)
 
+12. 微信实验十二、ThinkPHP5.0单页浏览、增加、修改、删除用户及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70789486)
+[简书->](http://www.jianshu.com/p/22b1f4d1caaf)
+
 疑难杂症解决方法
 1. 公众号用户发送消息后台PHP回复没有反应的解决办法
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70038219)
