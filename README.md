@@ -56,7 +56,11 @@
 
 12. 微信实验十二、ThinkPHP5.0单页浏览、增加、修改、删除用户及源码下载
 [CSDN->](http://blog.csdn.net/u013487761/article/details/70789486)
-[简书->](http://www.jianshu.com/p/22b1f4d1caaf)
+[简书->](http://www.jianshu.com/p/f09f0acee1cf)
+
+13. 微信实验十三、ThinkPHP5.0用户查询、分类查询及源码下载
+[CSDN->](http://blog.csdn.net/u013487761/article/details/70857805)
+[简书->](http://www.jianshu.com/p/e19dd5e8655a)
 
 疑难杂症解决方法
 1. 公众号用户发送消息后台PHP回复没有反应的解决办法
